@@ -1,17 +1,17 @@
 🏗️ Installation
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/VladyslavShypko/Note-App-NextJS.git
 
-cd Note-App-NextJS
+2. cd Note-App-NextJS
 
-Install dependencies:
+3. Install dependencies:
 
 npm install
 
-Run the development server:
+4. Run the development server:
 
 npm run dev
 
-Open http://localhost:3000 to see the app.
+5. Open http://localhost:3000 to see the app.
